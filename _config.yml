@@ -109,19 +109,19 @@ author:
   bio              : "Ph.D. Candidate, Political Science, MIT"
   location         : "Cambridge, MA"
   email            : "tsager@mit.edu"
-  #links:
+  links:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"
   #     url: "mailto:tsager@mit.edu"
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
   #     url: "tcsager.github.io"
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/tsagerstrom"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/tcsager"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+       url: "https://twitter.com/tsagerstrom"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+       url: "https://github.com/tcsager"
 
 # Site Footer
 footer:
