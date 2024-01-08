@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 #name                     : "Your Name"
 #description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : tcsager.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,19 +109,19 @@ author:
   bio              : "Ph.D. Candidate, Political Science, MIT"
   location         : "Cambridge, MA"
   email            : "tsager@mit.edu"
-  links:
+  #links:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"
   #     url: "mailto:tsager@mit.edu"
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
   #     url: "tcsager.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/tsagerstrom"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/tcsager"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/tsagerstrom"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/tcsager"
 
 # Site Footer
 footer:
