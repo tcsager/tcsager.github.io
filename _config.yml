@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: #"mailto:tsager@mit.edu"
+       url: "[Tyler Sagerstrom](mailto:tsager@mit.edu)"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "tcsager.github.io"
