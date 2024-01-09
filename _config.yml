@@ -30,6 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 future                   : true
+read_more                : "disabled"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -107,9 +108,11 @@ analytics:
 author:
   name             : "Tyler Sagerstrom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate, Political Science, MIT"
+  bio              : "Ph.D. Student, Political Science, MIT"
   location         : "Cambridge, MA"
   email            : "tsager@mit.edu"
+  github           : "tcsager"
+  twitter          : "tsagerstrom"
   #links:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"
@@ -205,6 +208,16 @@ kramdown:
   enable_coderay: false
 
 
+# Defaults; added 1/9/24
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -224,6 +237,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -271,17 +285,3 @@ compress_html:
   ignore:
     envs: development
 
-
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
