@@ -1,7 +1,9 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 author_profile: true
+redirect_from:
+  - /about/
 #excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 #layouts_gallery:
 #  - url: /assets/images/mm-layout-splash.png
@@ -17,4 +19,4 @@ last_modified_at: 2023-01-08
 toc: false
 ---
 
-Welcome! My name is Tyler Sagerstrom and I'm a Ph.D. Candidate in Political Science at MIT studying bureaucracy in international relations.
+Welcome! My name is Tyler Sagerstrom and I'm a Ph.D. student in Political Science at MIT studying bureaucracy in international relations.
