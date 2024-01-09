@@ -20,4 +20,4 @@ redirect_from:
 #toc: false
 ---
 
-Welcome! My name is Tyler Sagerstrom and I'm a Ph.D. student in Political Science at MIT studying bureaucracy in international relations.
+Welcome! My name is Tyler Sagerstrom and I'm a Ph.D. student in Political Science at MIT.
