@@ -15,8 +15,8 @@ redirect_from:
 #  - url: /assets/images/mm-layout-archive.png
 #    image_path: /assets/images/mm-layout-archive.png
 #    alt: "archive layout example"
-last_modified_at: 2023-01-08
-toc: false
+#last_modified_at: 2023-01-08
+#toc: false
 ---
 
 Welcome! My name is Tyler Sagerstrom and I'm a Ph.D. student in Political Science at MIT studying bureaucracy in international relations.
