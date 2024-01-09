@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /docs/research/
+permalink: /research/
 #excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 last_modified_at: 2023-01-08
 #redirect_from:
