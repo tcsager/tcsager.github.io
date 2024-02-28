@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Tyler Sagerstrom"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student, Political Science, MIT"
   location         : "Cambridge, MA"
   email            : "tsager@mit.edu"
