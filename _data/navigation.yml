@@ -2,8 +2,8 @@
 main:
   - title: "Research"
     url: https://tcsager.github.io/research/
-  #- title: "About"
-  #  url: https://tcsager.github.io/about/
+  - title: "About"
+    url: https://tcsager.github.io/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
