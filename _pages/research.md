@@ -1,5 +1,5 @@
 ---
-title: "Research"
+#title: "Research" -- uncomment this line to return page to site
 #permalink: /research/ -- uncomment this line to return page to site
 #excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 #last_modified_at: 2023-01-08
